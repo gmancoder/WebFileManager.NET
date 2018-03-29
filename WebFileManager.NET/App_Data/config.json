@@ -1,0 +1,54 @@
+﻿{
+  "EDITABLE_EXTENSIONS": [
+            "sh",
+            "js",
+            "css",
+            "html",
+            "htm",
+            "php",
+            "py",
+            "rb",
+            "txt",
+            "json",
+            "md",
+            "cs",
+            "xml",
+            "aspx",
+            "asp",
+            "vb",
+            "ru",
+            "gemfile",
+            "rakefile",
+            "makefile",
+            "sql",
+            "info",
+    "log",
+    "config",
+    "master",
+    "asax"
+        ],
+
+  "SHORTCUTS": [
+    {
+      "title": "Hosting",
+      "path": "C:\\HostingSpaces\\gbrewer"
+    },
+    {
+      "title": "Projects",
+      "path": "C:\\Users\\Administrator\\Documents\\Visual Studio 2015\\Projects"
+    }
+  ],
+  "users": [
+        {
+            "id": 1,
+
+            "name": "Graham R. Brewer",
+
+            "email": "grbrewer@gmail.com",
+
+            "username": "gbrewer",
+
+            "password": "IVBhc3MyNDh3b3Jk"
+        }
+    ],
+}
